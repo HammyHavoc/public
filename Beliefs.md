@@ -8,7 +8,7 @@ On Morality
 * Being good is in our nature (being evil requires misinformation or partial information)
 * Abortion should be legal everywhere
 * Assisted suicide should be legal everywhere
-* Health care should be available to everyone who needs it
+* Healthcare should be available to everyone who needs it
 * The death penalty should be used in extreme and certain cases to protect the public
 * Prisons should be about protecting the public, not about punishment
 * The world's average morality is improving as it becomes more connected
@@ -35,7 +35,7 @@ On Science & The Universe
 * Nothing in our universe will travel faster than light
 * The human brain (in its current state of evolution) can't comprehend the universe
 * We have no cosmic significance
-* Aliens exist
+* Aliens exist (We are the aliens to this planet)
 * Non-carbon-based life forms exist
 * Space travel throughout the universe is probably entirely the domain of robots and cyborgs
 * Forwards time-travel is possible, but backwards is not
@@ -57,10 +57,10 @@ On Technology
 
 On The Self
 -----------
-* Free will is mostly an illusion (but does exist in limited form)
+* Free will exists for 0.1% of humanity, however most people are sheeple
 * Pure altruism is an illusion (but kindness is not)
 * We tell stories in order to create and remember meaning
-* Consciousness is the result of a feedback loop between our story-making cortex and our subconscious (ain't it nice though?)
+* Consciousness is the result of a feedback loop between our story-making cortex and our subconscious
 * Privacy is not a human right, just a temporary side effect of not being truly connected to others
 * Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
 
@@ -77,7 +77,7 @@ On Politics & The Economy
 -------------------------
 * Most jobs lost in 2008-present aren't going to come back, new ones have to be created from scratch
 * In the future, working will be more thoroughly decoupled from having the means to live
-* We'll have a President that admits to being atheist or agnostic by 2025
+* America will have a President that admits to being atheist or agnostic by 2025
 * Power will be more quickly redistributed when it gets too heavy at the top
 
 On The Future Of Earth (2100)
@@ -100,10 +100,10 @@ On Love
 -------
 * Soulmates exist
 * Love at first sight happens
+* Love is the most important thing in life
 
 Meta
 ----
-* We have very little control over what we believe in
-* Some of my beliefs will be proven wrong
+* 0.1% of humanity has control of what they believe in
+* Some of my beliefs will be proven wrong and I embrace the feeling of learning
 * I'm willing to be convinced that my beliefs are wrong
-* Making and maintaining this list is useful and fun (you should do it too)
